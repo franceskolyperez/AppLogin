@@ -98,7 +98,9 @@
         android:layout_marginTop="32dp"
         android:text="Ingresar"
         android:textStyle="bold"
+        android:background="@drawable/button_rounded"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editText2" />
 
